@@ -2,12 +2,12 @@
 public class Player 
 {
 	private static final int MAX_PIECES = 12;
-	private String name;
+	private String nombre;
 	private Pieces[] pieces;
 	
 	public Player(String n)
 	{
-		name = n;
+		nombre = n;
 		
 	}
 	
