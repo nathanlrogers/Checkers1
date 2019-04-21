@@ -6,6 +6,7 @@ public class Player
 	private String nombre;
 	private Pieces[] pieces;
 	
+	// this comment is just a test
 	public Player(String n)
 	{
 		nombre = n;
