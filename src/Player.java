@@ -2,6 +2,7 @@
 public class Player 
 {
 	private static final int MAX_PIECES = 12;
+	public static final int MIN_PIECES = 0;
 	private String nombre;
 	private Pieces[] pieces;
 	
